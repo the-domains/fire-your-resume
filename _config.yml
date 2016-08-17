@@ -12,9 +12,5 @@ color:
     - '#36B1BF'
 layout_spectrum: 0.4786210332531482
 name: Fire Your Resume
-navigation:
-  - name: What does work?
-    url: The alternative
-    type: external
 title: Getting down to business
 description: The Golden Rule of Finding Work
