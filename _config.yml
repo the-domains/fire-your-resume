@@ -12,5 +12,9 @@ color:
     - '#36B1BF'
 layout_spectrum: 0.4786210332531482
 name: Fire Your Resume
+navigation:
+  - name: WHY RESUMES FAIL?
+    id: ffa2f06f-a49e-41df-9f82-b69645593b71
+    type: content
 title: FIRE YOUR RESUME!
 description: FINDING WORK WITH TOOLS THAT WORK!
