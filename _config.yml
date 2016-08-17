@@ -12,3 +12,7 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 name: Fire Your Resume
+navigation:
+  - name: What does work?
+    url: The alternative
+    type: external
