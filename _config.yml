@@ -16,5 +16,8 @@ navigation:
   - name: What does work?
     url: The alternative
     type: external
+  - name: Why Resumes Fail?
+    url: Why Resumes Fail?
+    type: external
 title: Getting down to business
 description: The Golden Rule of Finding Work
