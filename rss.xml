@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fire Your Resume]]></title>
+        <description><![CDATA[Fire Your Resume]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:39:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It takes 16 weeks to get a new job - Workopolis]]></title>
+            <description><![CDATA[<article><h1>It takes 16 weeks to get a new job - Workopolis</h1><p>Written by Elizabeth Bromstein Posted on April 21, 2014 Is it taking a while for you to find a job? Don't get frustrated. Getting work takes time. Job searches can last anywhere from two days to over a year, but for most people the quest lasts roughly four months.</p><img src="http://careers.workopolis.com/wp-content/uploads/sites/5/2014/04/How_Long_to_Find_Work.jpg"></article>]]></description>
+            <link>http://careers.workopolis.com/advice/it-takes-16-weeks-to-get-a-new-job/</link>
+            <guid isPermaLink="false">56e4765d-8b4b-493c-8fd4-72973db638d8</guid>
+            <pubDate>Wed, 17 Aug 2016 16:38:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
