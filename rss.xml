@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Fire Your Resume]]></title>
         <description><![CDATA[Fire Your Resume]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fire-your-resume/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:39:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 16:41:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fire-your-resume/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why only 2% of applicants actually get interviews]]></title>
+            <description><![CDATA[<article><h1>Why only 2% of applicants actually get interviews</h1><p>Written by Peter Harris Posted on December 1, 2015 I was doing a radio interview this morning. I thought the topic was going to be hiring trends for 2016, but the first question that the host asked me was, "what are the biggest mistakes that job seekers make."</p><img src="http://careers.workopolis.com/wp-content/uploads/sites/5/2015/12/2-per-cent.jpg"></article>]]></description>
+            <link>http://careers.workopolis.com/advice/only-2-of-applicants-actually-get-interviews-heres-how-to-be-one-of-them/</link>
+            <guid isPermaLink="false">8b1e6ae7-1c31-43fe-ba36-e7b1e47c039a</guid>
+            <pubDate>Wed, 17 Aug 2016 16:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It takes 16 weeks to get a new job - Workopolis]]></title>
-            <description><![CDATA[<article><h1>It takes 16 weeks to get a new job - Workopolis</h1><p>Written by Elizabeth Bromstein Posted on April 21, 2014 Is it taking a while for you to find a job? Don't get frustrated. Getting work takes time. Job searches can last anywhere from two days to over a year, but for most people the quest lasts roughly four months.</p><img src="http://careers.workopolis.com/wp-content/uploads/sites/5/2014/04/How_Long_to_Find_Work.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>It takes 16 weeks to get a new job - Workopolis</h1><p>Written by Elizabeth Bromstein Posted on April 21, 2014 Is it taking a while for you to find a job? Don't get frustrated. Getting work takes time. Job searches can last anywhere from two days to over a year, but for most people the quest lasts roughly four months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39826e01168958ef9dfb5759b916651d/noop.jpg?input=http%3A%2F%2Fcareers.workopolis.com%2Fwp-content%2Fuploads%2Fsites%2F5%2F2014%2F04%2FHow_Long_to_Find_Work.jpg"></article>]]></description>
             <link>http://careers.workopolis.com/advice/it-takes-16-weeks-to-get-a-new-job/</link>
             <guid isPermaLink="false">56e4765d-8b4b-493c-8fd4-72973db638d8</guid>
             <pubDate>Wed, 17 Aug 2016 16:38:54 GMT</pubDate>
