@@ -1,21 +1,20 @@
 ---
-datePublished: '2016-08-17T20:01:44.751Z'
+datePublished: '2016-08-17T20:19:54.521Z'
 sourcePath: >-
   _posts/2016-08-17-to-find-work-we-must-think-speak-and-act-like-business-peop.md
 author: []
 via: {}
-dateModified: '2016-08-17T19:48:17.357Z'
+dateModified: '2016-08-17T20:19:52.395Z'
 title: 'In business, do as the business people do - speak the language of money.'
 publisher: {}
 description: >-
   To find work we must think, speak and act like business-people instead of
   students or the unemployed or people (all sadly) struggling to get off of
   welfare. Good intentions do not fill bellies or bank accounts!
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: in-business-do-as-the-business-people-do-speak-the-langua/index.html
+_type: Blurb
 
 ---
 # In business, do as the business people do - speak the language of money.
