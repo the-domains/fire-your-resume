@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T15:52:27.805Z'
+datePublished: '2016-08-17T15:56:56.336Z'
 sourcePath: _posts/2016-08-17-you-wont-work-if-resumes-dont.md
 author: []
 via: {}
-dateModified: '2016-08-17T15:52:27.550Z'
+dateModified: '2016-08-17T15:56:56.051Z'
 title: You won’t work if Resumes don’t
 publisher: {}
 description: >-
@@ -20,9 +20,10 @@ _type: MediaObject
 
 ---
 # You won't work if Resumes don't
-![The reluctant face of modern insanity](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33688d49-0123-42e9-bc00-1f128d219918.jpg)
+![The reluctant face of modern insanity](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9e8503-2bcb-4f69-b844-48e1c7044c5b.jpg)
 
 You seek work. In fact you suffer from chronic unemployment. You blame others for your situation as you well might; lazy guidance counsellors, your past employer, your significant other. All for a variety of reasons. Everyone complains. Even those who may find a job but quickly get bored, unhappy and start looking yet again.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b132c6b-9a35-4d93-a385-37bcca930990.jpg)
 
 Ever considered placing blame on the inventor of the job resume? That is of course if you like the millions of lemmings out there continue to pump them out like so many paper sausages. Some attribute the following quote to Sigmund Freud, Modern Psychiatry's poster-boy:
 
