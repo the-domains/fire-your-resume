@@ -1,16 +1,16 @@
-typography_spectrum: 0.3696195336524397
+layout_spectrum: 0.9004017268307507
+typography_spectrum: 0.2786815548315644
 color:
-  brandStrength: 0.2657406502403319
-  lightness: 0.24625647417269647
-  saturation: 0.894584882305935
-  rhythmicContrast: 0.29153055022470653
+  brandStrength: 0.6906199653167278
+  lightness: 0.8253257423639297
+  saturation: 0.6624113398138434
+  rhythmicContrast: 0.2862972407601774
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-layout_spectrum: 0.4786210332531482
+    - '#FFFFFF'
+    - '#45C945'
+    - '#FFAF22'
+    - '#D80000'
+    - '#F55E72'
 name: Fire Your Resume
 navigation:
   - name: WHY RESUMES FAIL?
