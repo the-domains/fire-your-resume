@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-24T13:52:19.631Z'
+datePublished: '2016-08-24T14:00:47.293Z'
 sourcePath: >-
   _posts/2016-08-17-some-believe-that-finding-work-is-simply-a-numbers-game-se.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=MS2aEfbEi7s'
 author: []
 via: {}
-dateModified: '2016-08-24T13:52:18.981Z'
+dateModified: '2016-08-24T14:00:46.956Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,7 +19,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/decfa4b1b85e5651be7a1e41fa197068/croprotate.jpg?cropheight=265&cropwidth=232&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8f984945-a635-45ff-88f1-394f88b62f01.jpg&x=16&y=0)
+![The smart alternative](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64246e0d-e291-46f0-98b4-9588ec388e5a.jpg)
 
 Some believe that finding work is simply a numbers game - send out enough resumes, entertain enough interviews and it all works out in the end. Sadly however the percentages never work against anyone betting "against" the house.
 
